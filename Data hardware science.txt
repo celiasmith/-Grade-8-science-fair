@@ -1,0 +1,131 @@
+2015-02-15 15:36:47.7, Dad, Right, Male,182015-02-15 15:38:45.9, Dad, Right, Male,112015-02-15 15:56:22.1, Dad, Right, Male,192015-02-15 16:01:32.4, Dad, Right, Male,242015-02-15 16:03:11.5, Dad, Right, Male,222015-02-15 16:08:56.766400, Dad, Right, Male, 182015-02-15 16:10:47.140432, Dad, Right, Male, 252015-02-15 16:11:52.852981, Dad, Right, Male, 26
+2015-02-15 16:12:56.313468, Dad, Right, Male, 20
+2015-02-15 16:14:03.929681, Dad, Right, Male, 26
+2015-02-16 13:12:50.553098, Alana, Right, female, 13
+2015-02-16 13:15:43.887426, Alana, Right, female, 14
+2015-02-16 13:33:22.660934, Alana, Right, Female, 13
+2015-02-16 13:34:31.064679, Alana, Right, Female, 25
+2015-02-16 13:36:09.520554, Alana, Right, Female, 19
+2015-02-16 13:37:15.310527, Alana, Right, Female, 17
+2015-02-16 13:38:21.680270, Alana, Right, Female, 14
+2015-02-16 13:40:13.350274, Alana, Right, Female, 17
+2015-02-16 13:41:45.945215, Alana, Right, Female, 16
+2015-02-16 13:42:52.007108, Alana, Right, Female, 20
+2015-02-16 13:48:41.828345, Mom, Right, Female, 6
+2015-02-16 13:49:47.174819, Mom, Right, Female, 12
+2015-02-16 13:52:30.674229, Mom, Right, Female, 6
+2015-02-16 13:54:44.941849, Mom, Right, Female, 13
+2015-02-16 13:56:56.733576, Mom, Right, Female, 11
+2015-02-16 13:58:05.517831, Mom, Right, Female, 15
+2015-02-16 13:59:21.609952, Mom, Right, Female, 14
+2015-02-16 14:00:35.465573, Mom, Right, Female, 13
+2015-02-16 14:04:41.715388, Mom, Right, Female, 14
+2015-02-16 14:05:43.126928, Mom, Right, Female, 14
+2015-02-16 19:07:53.879316, Uncle Steve, Left, Male, 12
+2015-02-16 19:08:57.463110, Uncle Steve, Left, Male, 15
+2015-02-16 19:10:16.570823, Uncle Steve, Left, Male, 16
+2015-02-16 19:11:18.133314, Uncle Steve, Left, Male, 13
+2015-02-16 19:12:20.872608, Uncle Steve, Left, Male, 20
+2015-02-16 19:14:02.106706, Uncle Steve, Left, Male, 19
+2015-02-16 19:15:21.522549, Uncle Steve, Left, Male, 16
+2015-02-16 19:16:47.349905, Uncle Steve, Left, Male, 23
+2015-02-16 19:17:51.376718, Uncle Steve, Left, Male, 14
+2015-02-16 19:19:00.852161, Uncle Steve, Left, Male, 11
+2015-02-16 19:23:05.883264, Mike, Left, Male, 20
+2015-02-16 19:28:47.024813, Mike, Left, Male, 19
+2015-02-16 19:30:53.612584, Mike, Left, Male, 16
+2015-02-16 19:31:55.053512, Mike, Left, Male, 18
+2015-02-16 19:32:57.292936, Mike, Left, Male, 21
+2015-02-16 19:38:13.782161, Mike, Left, Male, 18
+2015-02-16 19:40:49.443542, Mike, Left, Male, 9
+2015-02-16 19:41:58.131895, Mike, Left, Male, 19
+2015-02-16 19:43:14.222145, Mike, Left, Male, 15
+2015-02-16 19:44:17.463551, Mike, Left, Male, 17
+2015-02-16 19:46:57.869352, Aunt Kim, Right, Female, 13
+2015-02-16 19:47:59.700829, Aunt Kim, Right, Female, 12
+2015-02-16 19:49:03.954913, Aunt Kim, Right, Female, 12
+2015-02-16 19:50:06.215190, Aunt Kim, Right, Female, 12
+2015-02-16 19:51:06.931451, Aunt Kim, Right, Female, 4
+2015-02-16 19:52:25.864522, Aunt Kim, Right, Female, 8
+2015-02-16 19:53:29.167504, Aunt Kim, Right, Female, 10
+2015-02-16 19:54:34.444368, Aunt Kim, Right, Female, 13
+2015-02-16 19:55:52.189026, Aunt Kim, Right, Female, 17
+2015-02-16 19:56:56.114962, Aunt Kim, Right, Female, 15
+2015-02-16 20:02:37.673263, Jessie, Right, Female, 9
+2015-02-16 20:03:39.050025, Jessie, Right, Female, 13
+2015-02-16 20:04:41.052705, Jessie, Right, Female, 16
+2015-02-16 20:05:48.143902, Jessie, Right, Female, 17
+2015-02-16 20:06:52.830771, Jessie, Right, Female, 19
+2015-02-16 20:08:12.083311, Jessie, Right, Female, 21
+2015-02-16 20:09:17.688465, Jessie, Right, Female, 21
+2015-02-16 20:10:20.344227, Jessie, Right, Female, 21
+2015-02-16 20:11:27.203590, Jessie, Right, Female, 18
+2015-02-16 20:12:42.217594, Jessie, Right, Female, 24
+2015-02-20 13:12:00.540704, Nathan, Left, Male, 15
+2015-02-20 13:12:26.908033, Nathan, Left, Male, 23
+2015-02-20 13:13:51.287003, Nathan, Left, Male, 21
+2015-02-20 13:15:02.757385, Nathan, Left, Male, 17
+2015-02-20 13:16:10.253449, Nathan, Left, Male, 12
+2015-02-20 13:17:30.976691, Nathan, Left, Male, 23
+2015-02-20 13:19:15.463140, Nathan, Left, Male, 23
+2015-02-20 13:20:42.499351, Nathan, Left, Male, 20
+2015-02-20 13:22:19.683337, Nathan, Left, Male, 24
+2015-02-20 13:23:33.337865, Nathan, Left, Male, 28
+2015-02-20 13:48:20.907023, Julia, Right, Female, 16
+2015-02-20 13:49:34.555475, Julia, Right, Female, 20
+2015-02-20 13:50:36.060687, Julia, Right, Female, 24
+2015-02-20 13:51:49.744330, Julia, Right, Female, 17
+2015-02-20 13:53:09.008552, Julia, Right, Female, 24
+2015-02-20 13:54:16.584990, Julia, Right, Female, 24
+2015-02-20 13:55:21.707726, Julia, Right, Female, 23
+2015-02-20 13:56:30.959213, Julia, Right, Female, 24
+2015-02-20 13:58:58.475852, Julia, Right, Female, 28
+2015-02-20 14:48:49.685443, Celeste, Left, Female, 11
+2015-02-20 14:50:04.857803, Celeste, Left, Female, 15
+2015-02-20 14:52:45.202684, Celeste, Left, Female, 17
+2015-02-20 14:54:15.200914, Celeste, Left, Female, 17
+2015-02-20 14:55:33.627934, Celeste, Left, Female, 16
+2015-02-20 14:57:07.707821, Celeste, Left, Female, 13
+2015-02-20 14:58:47.038285, Celeste, Left, Female, 16
+2015-02-20 14:59:52.901697, Celeste, Left, Female, 15
+2015-02-20 15:01:36.206499, Celeste, Left, Female, 19
+2015-02-21 15:48:55.237188, Grandma, Right, Female, 16
+2015-02-21 15:50:24.502015, Grandma, Right, Female, 14
+2015-02-21 15:51:36.274168, Grandma, Right, Female, 21
+2015-02-21 15:52:52.695304, Grandma, Right, Female, 13
+2015-02-21 15:55:07.765633, Grandma, Right, Female, 14
+2015-02-21 15:56:23.629412, Grandma, Right, Female, 15
+2015-02-21 15:57:26.506060, Grandma, Right, Female, 15
+2015-02-21 15:58:37.843832, Grandma, Right, Female, 15
+2015-02-21 15:59:44.691758, Grandma, Right, Female, 15
+2015-02-21 16:00:55.133945, Grandma, Right, Female, 19
+2015-02-21 16:18:00.675028, Grandpa, Right, Male, 16
+2015-02-21 16:19:11.710324, Grandpa, Right, Male, 20
+2015-02-21 16:20:14.944655, Grandpa, Right, Male, 19
+2015-02-21 16:21:17.824713, Grandpa, Right, Male, 21
+2015-02-21 16:22:21.488682, Grandpa, Right, Male, 21
+2015-02-21 16:24:12.858809, Grandpa, Right, Male, 21
+2015-02-21 16:25:17.944130, Grandpa, Right, Male, 21
+2015-02-21 16:26:29.565274, Grandpa, Right, Male, 22
+2015-02-21 16:28:41.445984, Grandpa, Right, Male, 21
+2015-02-21 16:31:03.903723, Grandpa, Right, Male, 22
+2015-02-22 11:27:22.337781, Andrew, Right, Male, 11
+2015-02-22 11:28:24.910788, Andrew, Right, Male, 13
+2015-02-22 11:29:31.998184, Andrew, Right, Male, 14
+2015-02-22 11:30:32.730753, Andrew, Right, Male, 17
+2015-02-22 11:32:05.897766, Andrew, Right, Male, 22
+2015-02-22 11:33:22.566361, Andrew, Right, Male, 14
+2015-02-22 11:34:24.975886, Andrew, Right, Male, 21
+2015-02-22 11:36:06.795149, Andrew, Right, Male, 20
+2015-02-22 11:37:14.929794, Andrew, Right, Male, 14
+2015-02-22 11:38:30.803775, Andrew, Right, Male, 23
+2015-02-22 11:42:04.890575, Sean, Left, Male, 18
+2015-02-22 11:43:09.323689, Sean, Left, Male, 18
+2015-02-22 11:44:26.275874, Sean, Left, Male, 19
+2015-02-22 11:46:00.669435, Sean, Left, Male, 17
+2015-02-22 11:48:22.047638, Sean, Left, Male, 20
+2015-02-22 11:49:26.031025, Sean, Left, Male, 19
+2015-02-22 11:50:31.474129, Sean, Left, Male, 24
+2015-02-22 11:51:37.116233, Sean, Left, Male, 17
+2015-02-22 11:52:58.930950, Sean, Left, Male, 14
+2015-02-22 12:00:30.708313, Sean, Left, Male, 18
